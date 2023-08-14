@@ -9,13 +9,13 @@ npm install
 ```
 Une fois les dépendances installées, vous pouvez lancer les tests avec la commande suivante :
 
-npm test
-Eslint
+```npx playwright test```
+
+**Eslint**
 
 ESLint est un linter de code qui peut être utilisé pour détecter les erreurs et les conventions de codage. Il est inclus dans ce repository et est configuré pour utiliser un ensemble de règles standard.
 
-Pour en savoir plus sur ESLint, visitez la page Web ESLint: https://eslint.org/.
 
-Prettier
+**Prettier**
 
 Prettier est un outil de formatage de code qui peut être utilisé pour formater votre code de manière cohérente. Il est inclus dans ce repository et est configuré pour utiliser le style standard de Prettier.
